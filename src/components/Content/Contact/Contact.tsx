@@ -93,10 +93,7 @@ const Contact = (_: any, ref: React.ForwardedRef<HTMLElement>) => {
                   <tr>
                     <td>Location</td>
                     <td>
-                      <p>
-                        Jl. Setiabudi I no. 5, Setiabudi, Setiabudi, South
-                        Jakarta, DKI Jakarta
-                      </p>
+                      <p>Jakarta, Indonesia</p>
                     </td>
                   </tr>
                   <tr>

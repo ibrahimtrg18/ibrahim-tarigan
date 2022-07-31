@@ -12,8 +12,8 @@ const GoogleMaps = () => {
 
   const mapOptions = {
     center: {
-      lat: -6.208963,
-      lng: 106.826216,
+      lat: -6.2,
+      lng: 106.816666,
     },
     zoom: 12,
   };
